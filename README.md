@@ -5,8 +5,8 @@
 
 📊 Github Stats 
 <div align="center">
-  <img  width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicassiosantos&show_icons=true&theme=chartreuse-dark" />
-  <img  width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicassiosantos&locale=en&hide_title=false&layout=compact&langs_count=5&theme=chartreuse-dark" alt="languages graph" />
+  <img  width="392" height="198" src="https://github-readme-stats.vercel.app/api?username=nicassiosantos&show_icons=true&theme=chartreuse-dark" />
+  <img  width="350" height="198" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicassiosantos&locale=en&hide_title=false&layout=compact&langs_count=5&theme=chartreuse-dark" alt="languages graph" />
 </div>
 
 
