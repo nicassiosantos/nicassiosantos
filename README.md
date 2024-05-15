@@ -1,7 +1,6 @@
 ### Olá, Sou Antonio Nicassio👋 
  Atualmente graduando no curso de Engenharia de Computação na Universidade Estadual de Feira de Santana(UEFS)
- 
-- 🌱 Estudando MERN Stack 
+
 
 📊 Github Stats 
 <div align="center">
